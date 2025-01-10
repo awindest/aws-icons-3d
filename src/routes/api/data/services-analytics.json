@@ -1,0 +1,130 @@
+{
+    "services": [
+        {
+            "name": "Athena",
+            "image": "imgs/Analytics/Athena.svg",
+            "url": "https://aws-icons.com/icons/athena",
+            "description": "Amazon Athena is a serverless, interactive analytics service that provides a simplified and flexible way to analyze petabytes of data where it lives."
+        },
+        {
+            "name": "Clean Rooms",
+            "image": "imgs/Analytics/Clean-Rooms.svg",
+            "url": "https://aws-icons.com/icons/clean-rooms",
+            "description": "AWS Clean Rooms helps companies and their partners more securely analyze and collaborate on their collective datasets without sharing or revealing underlying data."
+        },
+        {
+            "name": "CloudSearch",
+            "image": "imgs/Analytics/CloudSearch.svg",
+            "url": "https://aws-icons.com/icons/cloudsearch",
+            "description": "Quickly add rich, scalable search capabilities to your website or application with support for 34 languages and search features like highlighting, autocomplete, and geospatial search."
+        },
+        {
+            "name": "Data Exchange",
+            "image": "imgs/Analytics/Data-Exchange.svg",
+            "url": "https://aws-icons.com/icons/data-exchange",
+            "description": "There is no other place where customers can find data files, data tables, and data APIs from a vast portfolio of third-party data sets. We continuously innovate to make the world's third-party data easy to find in one data catalog."
+        },
+        {
+            "name": "Data Pipeline",
+            "image": "imgs/Analytics/Data-Pipeline.svg",
+            "url": "https://aws-icons.com/icons/data-pipeline",
+            "description": "AWS Data Pipeline is a cloud-based data workflow service that helps you process and move data between different AWS services and on-premise data sources."
+        },
+        {
+            "name": "DataZone",
+            "image": "imgs/Analytics/DataZone.svg",
+            "url": "https://aws-icons.com/icons/datazone",
+            "description": "Use Amazon DataZone to discover, share, govern, and analyze data at scale across organizational boundaries by making data accessible to everyone in the organization."
+        },
+        {
+            "name": "EMR",
+            "image": "imgs/Analytics/EMR.svg",
+            "url": "https://aws-icons.com/icons/emr",
+            "description": "Amazon EMR is a cloud big data platform for running large-scale distributed data processing jobs, interactive SQL queries, and machine learning applications using open-source analytics frameworks such as Apache Spark, Apache Hive, and Presto."
+        },
+        {
+            "name": "FinSpace",
+            "image": "imgs/Analytics/FinSpace.svg",
+            "url": "https://aws-icons.com/icons/finspace",
+            "description": "Data management and analytics service purpose-built for the financial services industry."
+        },
+        {
+            "name": "Glue",
+            "image": "imgs/Analytics/Glue.svg",
+            "url": "https://aws-icons.com/icons/glue",
+            "description": "AWS Glue is a serverless data integration service that makes it easy to discover, prepare, integrate, and modernize the extract, transform, and load (ETL) process."
+        },
+        {
+            "name": "Glue DataBrew",
+            "image": "imgs/Analytics/Glue-DataBrew.svg",
+            "url": "https://aws-icons.com/icons/glue-databrew",
+            "description": "Learn more about AWS Glue DataBrew, a visual data preparation tool that makes it easy for data analysts and data scientists to prepare data for analytics and machine learning."
+        },
+        {
+            "name": "Glue Elastic Views",
+            "image": "imgs/Analytics/Glue-Elastic-Views.svg",
+            "url": "https://aws-icons.com/icons/glue-elastic-views",
+            "description": "AWS Glue is a serverless data integration service that makes it easy to discover, prepare, integrate, and modernize the extract, transform, and load (ETL) process."
+        },
+        {
+            "name": "Kinesis",
+            "image": "imgs/Analytics/Kinesis.svg",
+            "url": "https://aws-icons.com/icons/kinesis",
+            "description": "Collect streaming data, create a real-time data pipeline, and analyze real-time video and data streams, log analytics, event analytics, and IoT analytics."
+        },
+        {
+            "name": "Kinesis Data Analytics",
+            "image": "imgs/Analytics/Kinesis-Data-Analytics.svg",
+            "url": "https://aws-icons.com/icons/kinesis-data-analytics",
+            "description": "Gain actionable insights from streaming data with serverless, fully managed Apache Flink"
+        },
+        {
+            "name": "Kinesis Data Streams",
+            "image": "imgs/Analytics/Kinesis-Data-Streams.svg",
+            "url": "https://aws-icons.com/icons/kinesis-data-streams",
+            "description": "Amazon Kinesis Data Streams is a fully managed, serverless data streaming service that stores and ingests various streaming data in real time at any scale."
+        },
+        {
+            "name": "Kinesis Firehose",
+            "image": "imgs/Analytics/Kinesis-Firehose.svg",
+            "url": "https://aws-icons.com/icons/kinesis-firehose",
+            "description": "Create a streaming data pipeline for real-time ingest (streaming ETL) into data lakes and analytics tools with Amazon Kinesis Data Firehose."
+        },
+        {
+            "name": "Kinesis Video Streams",
+            "image": "imgs/Analytics/Kinesis-Video-Streams.svg",
+            "url": "https://aws-icons.com/icons/kinesis-video-streams",
+            "description": "Capture, process, and store video streams & media streams for computer vision apps, smart home apps, smart city apps, and real-time video analytics."
+        },
+        {
+            "name": "Lake Formation",
+            "image": "imgs/Analytics/Lake-Formation.svg",
+            "url": "https://aws-icons.com/icons/lake-formation",
+            "description": "AWS Lake Formation is a fully managed service used to build, manage, and secure data lakes in days, so you can confidently share data across your organization."
+        },
+        {
+            "name": "Managed Streaming for Apache Kafka",
+            "image": "imgs/Analytics/Managed-Streaming-for-Apache-Kafka.svg",
+            "url": "https://aws-icons.com/icons/managed-streaming-for-apache-kafka",
+            "description": "Amazon MSK is a fully managed, secure, and highly available Apache Kafka service that makes it easy to ingest and process streaming data in real time at a low cost."
+        },
+        {
+            "name": "OpenSearch Service",
+            "image": "imgs/Analytics/OpenSearch-Service.svg",
+            "url": "https://aws-icons.com/icons/opensearch-service",
+            "description": "Unlock fast and scalable search, monitoring, and analysis for log analytics and website search by deploying and running OpenSearch and ALv2 Elasticsearch."
+        },
+        {
+            "name": "QuickSight",
+            "image": "imgs/Analytics/QuickSight.svg",
+            "url": "https://aws-icons.com/icons/quicksight",
+            "description": "Amazon QuickSight is a cloud-native, serverless, business intelligence with native ML integrations and usage-based pricing, allowing insights for all users."
+        },
+        {
+            "name": "Redshift",
+            "image": "imgs/Analytics/Redshift.svg",
+            "url": "https://aws-icons.com/icons/redshift",
+            "description": "Amazon Redshift uses SQL to analyze structured and semi-structured data across data warehouses, operational databases, and data lakes, using AWS-designed hardware and machine learning to deliver the best price performance at any scale."
+        }
+    ]
+}
