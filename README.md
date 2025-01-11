@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/75b2ec78-8ea9-4930-a88b-ab3677bac3ef)
+
 # Readme file for aws-icons-3d
 
 ## Overview
