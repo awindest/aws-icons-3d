@@ -28,7 +28,7 @@
 
 	let camera, scene, renderer
 	let controls
-
+	let search = 'loading'
 	const objects = []
 	const targets = { table: [], sphere: [], helix: [], grid: [] }
 	const categoryGradients = {
@@ -99,6 +99,10 @@
 	// Note: all of the null values were replaced with the string 'no data' in the the periodic table data
 
 	function showInfo(name) {
+		// if search dialog is showing get rid of it
+		if (showSearch === true) {
+			showSearch = !showSearch
+		}
 		// name is the name of the element clicked
 		const serviceObject = services.find((el) => el.name === name)
 		serviceName = serviceObject['name']
