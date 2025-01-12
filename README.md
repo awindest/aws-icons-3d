@@ -25,7 +25,7 @@ Once the data was in a nice data format...
  Used https://www.npmjs.com/package/flexsearch for searching locally (ie, no network calls)
 
  Used https://codepen.io/JosephusPaye/pen/vbaxBa
-for linear gradient conversion, and then copied and pasted the CSS linear gradient code. Had to rotate the color wheel by 90 degrees, ie, -45 degrees -> 45 degrees 8)
+for linear gradient conversion, and then copied and pasted the CSS linear gradient code. Had to rotate the gradient by 90 degrees, ie, -45 degrees -> 45 degrees 8)
 
 This code is a memory hog, but it works. Need to figure out how to not have an event listener on each of the 311 divs and just have a central one and dispatch accordingly. Could also eliminate some global variables that hang around in memory unnecessarily.
 
