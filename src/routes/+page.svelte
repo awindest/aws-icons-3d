@@ -108,6 +108,7 @@
 		serviceName = serviceObject['name']
 		description = serviceObject['description']
 		url = serviceObject['url']
+		serviceSearch = url
 		image = serviceObject['image']
 		// let stringFrags = url.split('/')
 		//serviceSearch = `https://aws.amazon.com/search/?searchQuery=${stringFrags[stringFrags.length - 1]}`
