@@ -125,7 +125,7 @@
 
 		// services
 		setXYPositions()
-		for (let i = 0; i < services.length - 1; i++) {
+		for (let i = 0; i < services.length; i++) {
 			const element = document.createElement('div')
 			// not a best practice
 			element.addEventListener('pointerdown', function () {
