@@ -16,6 +16,7 @@
 	let open = false // state of aside
 	let showSearch = false // state of search dialog
 	let showInfoPanel = false // state of InfoPanel
+	let id
 	let serviceName
 	let description
 	let url
@@ -105,6 +106,7 @@
 		}
 		// name is the name of the element clicked
 		const serviceObject = services.find((el) => el.name === name)
+		id = serviceObject['id']
 		serviceName = serviceObject['name']
 		description = serviceObject['description']
 		url = serviceObject['url']
@@ -329,6 +331,7 @@
 <Hamburger bind:open />
 
 <InfoPanel bind:showInfoPanel {styleBackgroundImage}>
+	<p class="number">{id}</p>
 	<img class="info-image" src={image} alt={serviceName} />
 	<h1 class="service-info">{serviceName}</h1>
 	<p>{description}</p>
